@@ -16,7 +16,7 @@ automatically deletes deleted notes after 7 days.
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/google-keep-clone.git`
+1. Clone the repository
 2. Install the dependencies: `npm install` or `npm install --legacy-peer-deps`
 3. Start the development server: `npm start`
 
